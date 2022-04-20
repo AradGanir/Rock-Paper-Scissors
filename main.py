@@ -64,7 +64,7 @@ def play():
             paperChoice()
             gameOver()
         else:
-            print("That's not a valid input, please try again! fucking idiot")
+            print("That's not a valid input, please try again!")
             break
 
 
